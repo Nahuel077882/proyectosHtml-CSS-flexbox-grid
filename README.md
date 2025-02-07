@@ -1,1 +1,1 @@
-pagina realizada para practicar conocimientos adquiridos en CSS FlexBox
+pagina estatica realizada con el fin de practicar los conocimientos adquiridos en CSS FlexBox
